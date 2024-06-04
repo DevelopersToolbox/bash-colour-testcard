@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it using these metadata.
+title: Bash Colour Testcard
+abstract: A script to display a table of colours based on the number of colours that your terminal is able to support.
+type: software
+version: 0.1.0
+date-released: 2024-06-04
+repository-code: https://github.com/DevelopersToolbox/bash-colour-testcard
+keywords:
+  - "Wolf Software"
+  - "Software"
+license: MIT
+authors:
+  - family-names: "Wolf"
+    orcid: "https://orcid.org/0009-0007-0983-2072"
